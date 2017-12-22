@@ -7,3 +7,7 @@ form a {
 .list-group-item:hover {
   background-color: lightgray;
 }
+
+.btn {
+  margin-top: 10px;
+}
