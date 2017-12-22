@@ -3,3 +3,7 @@
 form a {
   margin-left: 10px;
 }
+
+.list-group-item:hover {
+  background-color: lightgray;
+}
